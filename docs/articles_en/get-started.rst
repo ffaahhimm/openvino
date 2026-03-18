@@ -69,7 +69,7 @@ Learn the basics of working with models and inference in OpenVINO. Begin with â€
 Interactive Tutorials - Jupyter Notebooks
 -----------------------------------------
 
-Start with :doc:`interactive Python <get-started/learn-openvino/interactive-tutorials-python>` that show the basics of model inference, the OpenVINO API, how to convert models to OpenVINO format, and more.
+Start with :doc:`interactive Python <get-started/learn-openvino/interactive-tutorials-python>` that shows the basics of model inference, the OpenVINO API, how to convert models to OpenVINO format, and more.
 
 * `Hello Image Classification <https://github.com/openvinotoolkit/openvino_notebooks/tree/latest/notebooks/hello-world>`__
   - Load an image classification model in OpenVINO and use it to apply a label to an image
